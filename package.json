@@ -1,6 +1,6 @@
 {
   "name": "regex-occurrence",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the number of occurrences of a RegExp in a string",
   "license": "MIT",
   "repository": "SamVerschueren/regex-occurrence",
